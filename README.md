@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋 I'm Danko</h1>
-<h3 align="center">A chilean developer (in progress), pursuing an engineering carreer in computer science and informatics.</h3>
-<h3 align="center"> This is a repository associated to my university email.</h3>
+<p align="center">A chilean developer (in progress), pursuing an engineering carreer in computer science and informatics at the Metropolitan University of Technology (UTEM) in Chile.</p>
+<p align="center"> This is my personal github account.</p>
 
 - 🌱 I’m currently learning **Machine Learning, Natural Language Processing and Cybersecurity**
-
-- 📫 How to reach me **dlobosb@utem.cl**
+- 📫 I can be reached by email to *dllb (dot) dev (at) proton (dot) me*
 
 <h2> Languages </h2>
 
