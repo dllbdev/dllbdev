@@ -1,11 +1,5 @@
-<head>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css"
-/>
-</head>
 <h1 align="center"> Hi 👋 I'm Danko</h1>
-<p align="center"> Chilean Software Developer <span class="fi fi-cl"></span> 
+<p align="center"> Chilean Software Developer 🇨🇱
 <br />
 This is my personal github account 👨‍💻
 </p>
@@ -13,7 +7,7 @@ This is my personal github account 👨‍💻
 - 🎓Studying computer science engineering at the Metropolitan University of Technology (UTEM) in Santiago.
 - 📫 I can be reached by email to _dllb (dot) dev (at) proton (dot) me_
 
-<h2> Programming </h2>
+## Programming
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -24,7 +18,7 @@ This is my personal github account 👨‍💻
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
-<h2> Front End</h2>
+## Front End
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
@@ -33,7 +27,7 @@ This is my personal github account 👨‍💻
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 
-<h2> Back End </h2>
+## Back End 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -43,7 +37,7 @@ This is my personal github account 👨‍💻
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
-<h2> OS </h2>
+## OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
