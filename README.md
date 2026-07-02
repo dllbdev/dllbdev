@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Danko</h1>
-<p align="center"> Chilean Software Engineer :chile:
+<p align="center"> Software Engineer
 <br />
 This is my personal github account 👨‍💻
 </p>
