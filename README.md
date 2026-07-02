@@ -4,7 +4,7 @@
 This is my personal github account 👨‍💻
 </p>
 
-- 🎓 Computer Science Engineering graduate at the Metropolitan University of Technology (UTEM) in Santiago.
+- 🎓 Computer Science Engineering graduate from the Metropolitan University of Technology (UTEM) in Santiago.
 - 📫 I can be reached by email to _dllb (dot) dev (at) proton (dot) me_
 
 ## Programming
