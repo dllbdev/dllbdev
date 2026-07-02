@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋 I'm Danko</h1>
-<p align="center"> Chilean Software Developer :chile:
+<p align="center"> Chilean Software Engineer :chile:
 <br />
 This is my personal github account 👨‍💻
 </p>
 
-- 🎓Studying computer science engineering at the Metropolitan University of Technology (UTEM) in Santiago.
+- 🎓 Computer Science Engineering graduate at the Metropolitan University of Technology (UTEM) in Santiago.
 - 📫 I can be reached by email to _dllb (dot) dev (at) proton (dot) me_
 
 ## Programming
